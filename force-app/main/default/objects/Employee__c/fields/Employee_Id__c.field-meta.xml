@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Employee_Id__c</fullName>
+    <description>Field for Emloyee.</description>
+    <displayFormat>EMP-{0000}</displayFormat>
+    <externalId>false</externalId>
+    <label>Employee_Id</label>
+    <trackTrending>false</trackTrending>
+    <type>AutoNumber</type>
+</CustomField>
